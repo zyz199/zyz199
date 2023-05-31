@@ -24,9 +24,6 @@
 
 > _If my project helped you or you appreciate them, you can give me a star~ ⭐_
 
-## 🕹️ Organizations
-
-- _**🥷 [Pixel Cyber Ninja](https://github.com/pixel-cyber-ninja)**_ : A start-up open-source team focused on _**`React`**_ and _**`Golang`**_ for building modern web applications.
 
 ## 💫 Dream
 
