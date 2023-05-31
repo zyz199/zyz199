@@ -1,10 +1,49 @@
-- 👋 Hi, I’m @zyz199
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 🦁 Leo Zhang
 
-<!---
-zyz199/zyz199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🍗 Profile
+
+- 👋 Hi, I'm _**`leo Zhang`**_, a _**`Web Developer`**_ and _**`open-source enthusiast`**_.
+- 📖 I'm interested in reading different books and making something amazing.
+- 🌱 I'm currently focusing on  _**`TypeScript`**_ ,_**`Nest.js`**_ and _**`Next.js`**_.
+- 💞️ I'm looking to collaborate on a _**`React`**_ project.
+- 🌐 I'm also good at building enterprise website with _**`SSR/SSG`**_ framework such as _**`Gatsby`**_.
+- 📫 You can also contact me with my email _**`zhangyz652@gmail.com`**_.
+- 💪 My tech stacks: _**`JavaScript`**_ | _**`TypeScript`**_ |_**`Nest.js`**_ | _**`React`**_ | _**`Next.js`**_ |  _**`Node.js`**_ | _**`HTML`**_ | _**`CSS`**_ | _**`SCSS`**_ |
+
+## 🌱 Recent Activities
+
+- 🚀 Migrate my blog site from `docusaurus` to `Next.js`. ( Progress: 70% )
+
+## 🦄 Projects
+
+- _**[Blog](https://wiki-ylyt.vercel.app/)**_ : _**`🚧 In Development`**_ My personal blog to record something what I want. Based on _**`Next`**_.
+- _**[Nest-Lark](https://taskward.bruceworld.top)**_ : _**`🚀 In maintenance`**_ A template for nest to build backend services to build  web application with lark. Based on _**`Nest`**_, _**`TypeScript`**_.
+- _**[VSCode Settings](https://github.com/recallwei/vscode-settings)**_ : My custom VSCode _**`settings`**_, _**`code snippets`**_, _**`extensions`**_.
+- _**[Front-end Universe](https://front-end-universe.vercel.app)**_ : _**`🚧 In Development`**_ A website used to collect various front-end-related resources. Based on _**`Nuxt.js 3`**_, _**`TypeScript`**_.
+
+> _If my project helped you or you appreciate them, you can give me a star~ ⭐_
+
+## 🕹️ Organizations
+
+- _**🥷 [Pixel Cyber Ninja](https://github.com/pixel-cyber-ninja)**_ : A start-up open-source team focused on _**`React`**_ and _**`Golang`**_ for building modern web applications.
+
+## 💫 Dream
+
+```typescript
+function* myLife(){
+  fun++
+  yield
+  love++
+  yield
+  money++
+  yield
+  ...
+}
+myLife().next()
+        .next()
+        .next()
+        ...
+```
+
+---
