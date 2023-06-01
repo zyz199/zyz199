@@ -5,7 +5,7 @@
 
 - 👋 Hi, I'm _**`leo Zhang`**_, a _**`Web Developer`**_ and _**`open-source enthusiast`**_.
 - 📖 I'm interested in reading different books and making something amazing.
-- 🌱 I'm currently focusing on  _**`TypeScript`**_ ,_**`Nest.js`**_ and _**`Next.js`**_.
+- 🌱 I'm currently focusing on  _**`TypeScript`**_ ,_**`Nest.js`**_,_**`React`**_ and _**`Next.js`**_.
 - 🌐 I'm also good at building enterprise website with _**`SSR/SSG`**_ framework such as _**`Gatsby`**_.
 - 📫 You can also contact me with my email _**`zhangyz652@gmail.com`**_.
 - 💪 My tech stacks: _**`JavaScript`**_ | _**`TypeScript`**_ |_**`Nest.js`**_ | _**`React`**_ | _**`Next.js`**_ |  _**`Node.js`**_ | _**`HTML`**_ | _**`CSS`**_ | _**`SCSS`**_ |
