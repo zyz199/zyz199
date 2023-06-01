@@ -3,7 +3,7 @@
 
 ## 🍗 Profile
 
-- 👋 Hi, I'm _**`leo Zhang`**_, a _**`Web Developer`**_ and _**`open-source enthusiast`**_.
+- 👋 Hi, I'm _**`leo Zhang`**_, a _**`Web Developer`**_ .
 - 📖 I'm interested in reading different books and making something amazing.
 - 🌱 I'm currently focusing on  _**`TypeScript`**_ ,_**`Nest.js`**_,_**`React`**_ and _**`Next.js`**_.
 - 📫 You can also contact me with my email _**`zhangyz652@gmail.com`**_.
