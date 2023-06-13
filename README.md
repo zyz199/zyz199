@@ -24,21 +24,3 @@
 > _If my project helped you or you appreciate them, you can give me a star~ ⭐_
 
 
-## 💫 Dream
-
-```typescript
-function* myLife(){
-  fun++
-  yield
-  love++
-  yield
-  money++
-  yield
-  ...
-}
-myLife().next()
-        .next()
-        .next()
-        ...
-```
-
